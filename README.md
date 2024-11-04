@@ -68,6 +68,4 @@ Ensure that the dataset `Global YouTube Statistics.csv` is located in the `data`
 - Multiple visualizations illustrating data distributions, trends, and correlations.
 - Results from statistical tests such as t-tests and chi-square tests.
 
-# Troubleshooting and Tips
-- If you encounter issues related to missing libraries, make sure to install them using the provided `pip install` command.
-- Ensure that you are running the notebook in an environment with Python and Jupyter Notebook installed (e.g., Anaconda or a virtual environment).
+
